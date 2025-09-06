@@ -1,6 +1,6 @@
 # Python
 whitenoise==6.9.0 # https://pypi.org/project/whitenoise/
-pre-commit==4.2.0 # https://pre-commit.com/
+pre-commit==4.3.0 # https://pre-commit.com/
 requests==2.32.3 # https://pypi.org/project/requests/
 
 # Django
