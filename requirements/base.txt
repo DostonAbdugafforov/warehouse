@@ -30,7 +30,7 @@ redis==5.2.1
 
 #Celery monitoring https://cronitor.io/
 cronitor==4.7.1
-pandas==2.2.3
+pandas==2.3.3
 openpyxl==3.1.5
 pillow==11.2.1
 environs==14.1.1
